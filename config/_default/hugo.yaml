@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Online Courses' # Website name
+title: 'MeClass' # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -25,8 +25,8 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: zh-Hans
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
