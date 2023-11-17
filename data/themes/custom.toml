@@ -12,8 +12,8 @@ name = "Custom Theme"
   menu_title = "#000"
 
   # Links
-  link = "#707070"
-  link_hover = "#000"
+  link = "#9dbbf2"
+  link_hover = "#0d6efd"
   link_decoration = "underline"
 
   # Home sections
@@ -23,3 +23,9 @@ name = "Custom Theme"
 [dark]
   #Primary
   primary = "#ffc107"
+
+  # Menu
+  menu_primary = "#ffc107"
+  menu_text = "#000"
+  menu_text_active = "#000"
+  menu_title = "#000"
