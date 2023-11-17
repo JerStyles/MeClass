@@ -1,12 +1,20 @@
 
+// START Customized SCSS
+
 // .dark .btn-primary,
 // .dark .btn.btn-primary.active {
 //   color: #fff;
 // }
 
-button.docs-toggle:hover, button.docs-toggle:focus{
-  color: #ffc107!important
+.docs-article-container {
+  background-color: #000;
 }
+
+button.docs-toggle:hover, button.docs-toggle:focus{
+  color: #ffc107
+}
+
+//END Customized SCSS
 
 // Remove shadow under navbar
 .navbar {
