@@ -22,7 +22,7 @@ name = "Custom Theme"
 
 [dark]
   #Primary
-  # primary = "#ffc107"
+  primary = "#ffffff"
 
   # Menu
   menu_primary = "#ffc107"
