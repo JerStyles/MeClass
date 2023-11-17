@@ -1,5 +1,9 @@
-$sta-primary-light: #fff;
-$sta-primary-dark: #ffc107;
+
+.dark .btn-primary,
+.dark .btn.btn-primary.active {
+  color: #ffc107;
+}
+
 
 // Remove shadow under navbar
 .navbar {
