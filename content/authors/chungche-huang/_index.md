@@ -18,8 +18,9 @@ bio: 我的研究興趣是計算機語言學、機器學習、二語習得與學
 
 interests:
   - 計算機語言學
-  - 機器學習
+  - 認知語言學
   - 二語習得
+  - 機器學習
   - 學習科學
 
 education:
@@ -39,12 +40,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chungche@psu.ac.th'
-  - icon: fa-home
+  - icon: website
     icon_pack: fab
     link: https://chungche-huang.meclass.la
   - icon: github
     icon_pack: fab
     link: https://github.com/jerstyles
+  - icon: youtube
+    icon_pack: fab
+    link: https://youtube.com/@jerjer687
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -58,4 +62,4 @@ user_groups:
   - Teachers
 ---
 
-我的研究興趣是計算機語言學與二語習得，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。
+我的研究興趣是[計算機語言學](https://en.wikipedia.org/wiki/Computational_linguistics)、[認知語言學](https://en.wikipedia.org/wiki/Cognitive_linguistics)與[二語習得](https://en.wikipedia.org/wiki/Second-language_acquisition)，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。
