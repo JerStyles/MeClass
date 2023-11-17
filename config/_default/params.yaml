@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night:  minimal
+  theme_day: custom
+  theme_night:  custom
   font: zh-Hans
   font_size: L
 
