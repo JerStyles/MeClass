@@ -4,15 +4,20 @@
 //   color: #fff;
 // }
 
-.btn.docs-toggle:active {
+.btn.docs-toggle.collapsed{
   color: #ffc107!important
 }
 
+. {
+  background-color: #000;
+}
 // Remove shadow under navbar
 .navbar {
   box-shadow: none;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+}
+
+.navbar-brand {
+  margin: 1rem;
 }
 
 // Full width Portfolio filter toolbar
