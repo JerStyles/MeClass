@@ -1,27 +1,16 @@
-[light]
+# Theme metadata
+name = "Custom"
+
+[dark]
   # Primary
   primary = "#ffc107"
 
   # Menu
   menu_primary = "#ffc107"
-  menu_text = "#000000"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
-
-  link = "#0d6efd"
-  link_hover = "#5298ff"
+  menu_text = "rgba(255,255,255,0.6)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
-
-[dark]
-
-  # Menu
-  menu_primary = "#ffc107"
-  menu_text = "#000000"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
-
-  link = "#ffc107"
-  link_hover = "#ffc107"
+  home_section_odd = "hsla(231, 15%, 18%, 1)"
+  home_section_even = "hsla(231, 15%, 16%, 1)"
