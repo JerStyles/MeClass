@@ -1,16 +1,31 @@
 # Theme metadata
-name = "Dark"
+name = "custom"
 
-[dark]
+[light]
   # Primary
-  primary = "hsl(339, 90%, 68%)"
+  primary = "#795548"
 
   # Menu
-  menu_primary = "rgb(20, 22, 34)"
+  menu_primary = "#795548"
   menu_text = "rgba(255,255,255,0.6)"
   menu_text_active = "rgba(255,255,255,1)"
   menu_title = "#fff"
 
-  # Home sections
-  home_section_odd = "hsla(231, 15%, 18%, 1)"
-  home_section_even = "hsla(231, 15%, 16%, 1)"
+  # Backgrounds
+  background = "hsla(16, 24%, 85%, 1)"
+  home_section_odd = "hsla(16, 24%, 85%, 1)"
+  home_section_even = "hsla(16, 24%, 80%, 1)"
+  
+[dark]
+# Primary
+primary = "hsl(339, 90%, 68%)"
+
+# Menu
+menu_primary = "rgb(20, 22, 34)"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "hsla(231, 15%, 18%, 1)"
+home_section_even = "hsla(231, 15%, 16%, 1)"

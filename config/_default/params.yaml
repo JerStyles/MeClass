@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  theme_default: system
   theme_day: custom
   theme_night: custom
   font: zh-Hans
