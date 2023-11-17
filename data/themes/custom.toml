@@ -1,20 +1,20 @@
-[light]
-  # Primary
-  primary = "#1565c0"
+# [light]
+#   # Primary
+#   primary = "#1565c0"
 
-  # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+#   # Menu
+#   menu_primary = "#fff"
+#   menu_text = "#34495e"
+#   menu_text_active = "#2962ff"
+#   menu_title = "#2b2b2b"
 
-  # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+#   # Home sections
+#   home_section_odd = "rgb(255, 255, 255)"
+#   home_section_even = "rgb(247, 247, 247)"
 
-[dark]
-  # Primary
-  primary = "#ffc107"
+# [dark]
+#   # Primary
+#   primary = "#ffc107"
 
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+#   link = "#bbdefb"
+#   link_hover = "#bbdefb"
