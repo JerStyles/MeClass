@@ -92,6 +92,9 @@ features:
       index_name: ''
       show_logo: false
 
+# font settings
+font: Noto_San_CH, 'Noto Sans TC', sans-serif
+
 extensions:
   academicons:
     enable: false
