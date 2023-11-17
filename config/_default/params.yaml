@@ -7,7 +7,7 @@
 
 appearance:
   theme_default: system
-  theme_day: 
+  theme_day: custom_dark
   theme_night: custom_dark
   font: zh-Hans
   font_size: L
