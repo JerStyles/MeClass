@@ -3,7 +3,6 @@ widget: hero
 headless: true
 weight: 10
 title: 
-  <br>
   米課室線上課程
   <br>
   一站式學習平台
