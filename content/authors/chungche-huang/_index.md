@@ -24,15 +24,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 碩士，華語教學碩士學位學程
+      institution: 國立台灣大學
+      year: 2016
+    - course: 學士，中國文學系
+      institution: 國立台灣大學
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,19 +38,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:chungche@psu.ac.th'
+  - icon: fa-home
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://chungche-huang.meclass.la
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jerstyles
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -61,4 +58,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我的研究興趣是計算機語言學與二語習得，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。
