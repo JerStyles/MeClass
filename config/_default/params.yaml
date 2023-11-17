@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night:
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -49,7 +49,7 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
