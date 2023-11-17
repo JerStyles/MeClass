@@ -3,7 +3,8 @@ widget: hero
 headless: true
 weight: 10
 title: 
-  有品質的線上課程
+  有品質的線上課程  
+  <br>
   給有品味的你
 hero_media: teacher.png
 # design:
