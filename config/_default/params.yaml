@@ -6,9 +6,8 @@
 # Appearance
 
 appearance:
-  theme_default: dark
   theme_day:
-  theme_night: custom 
+  theme_night: dark
   font: zh-Hans
   font_size: L
 
