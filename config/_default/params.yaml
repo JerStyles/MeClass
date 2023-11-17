@@ -7,8 +7,8 @@
 
 appearance:
   theme_default: system
-  theme_night: cyberpunk
-  theme_day: cyberpunk
+  theme_night: custom
+  theme_day: custom
   font: zh-Hans
   font_size: L
 
