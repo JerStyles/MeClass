@@ -63,8 +63,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: 
-    theme_dark: 
+    theme_light: github_light 
+    theme_dark: github_dark
   math:
     enable: false
   privacy_pack:
