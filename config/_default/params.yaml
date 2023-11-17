@@ -7,7 +7,7 @@
 
 appearance:
   theme_day:
-  theme_night: dark
+  theme_night: minimal
   font: zh-Hans
   font_size: L
 
