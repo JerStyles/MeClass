@@ -1,6 +1,7 @@
 ---
 # Display name
-title: 黃崇哲（Chungche Huang）
+title: 黃崇哲
+  Chungche Huang
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,7 +42,7 @@ social:
     icon_pack: fas
     link: 'mailto:chungche@psu.ac.th'
   - icon: website
-    icon_pack: fab
+    icon_pack: fas
     link: https://chungche-huang.meclass.la
   - icon: github
     icon_pack: fab
