@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: ocean
+  theme_night: mr_robot
+  font: zh-Hans
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -91,9 +91,6 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-
-# font settings
-font: Noto_San_CH, 'Noto Sans TC', sans-serif
 
 extensions:
   academicons:

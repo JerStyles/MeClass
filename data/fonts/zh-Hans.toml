@@ -1,0 +1,11 @@
+# Font style metadata
+name = "zh-Hans"
+
+# Optional Google font URL
+google_fonts = "family=Noto+Sans+TC:wght@200;400;700"
+
+# Font families
+heading_font = "Noto Sans TC"
+body_font = "Noto Sans TC"
+nav_font = "Noto Sans TC"
+mono_font = "Noto Sans TC"
