@@ -3,7 +3,7 @@ name = "Custom Theme"
 
 [light]
   # Primary
-  primary = "#707070"
+  primary = "#ffc107"
 
   # Menu
   menu_primary = "#f6eee9"
@@ -22,7 +22,7 @@ name = "Custom Theme"
 
 [dark]
   #Primary
-  primary = "#ffc107"
+  # primary = "#ffc107"
 
   # Menu
   menu_primary = "#ffc107"
