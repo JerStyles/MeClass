@@ -7,8 +7,8 @@
 
 appearance:
   theme_default: system
-  theme_day: custom
-  theme_night: custom
+  theme_day: minimal
+  theme_night: minimal
   font: zh-Hans
   font_size: L
 
