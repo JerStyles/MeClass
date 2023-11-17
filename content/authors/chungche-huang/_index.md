@@ -40,8 +40,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chungche@psu.ac.th'
-  - icon: website
-    icon_pack: fas
+  - icon: home
+    # icon_pack: fas
     link: https://chungche-huang.meclass.la
   - icon: github
     icon_pack: fab
