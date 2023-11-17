@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 黃崇哲<br>Chungche Huang
+title: 黃崇哲{{<br>}}Chungche Huang
 
 # Is this the primary user of the site?
 superuser: true
