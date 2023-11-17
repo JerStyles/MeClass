@@ -7,8 +7,8 @@
 
 appearance:
   theme_default: system
-  theme_day: custom_dark
-  theme_night: custom_dark
+  theme_day: custom
+  theme_night: 
   font: zh-Hans
   font_size: L
 
@@ -63,8 +63,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: 
+    theme_dark: 
   math:
     enable: false
   privacy_pack:
