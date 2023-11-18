@@ -1,5 +1,5 @@
 ---
-title: Ready to learn?
+title: 準備好上課?
 subtitle:
 widget: blank
 weight: 50

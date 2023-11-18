@@ -14,7 +14,7 @@ organizations:
     url: 'https://en.psu.ac.th'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究興趣是計算機語言學、機器學習、二語習得與學習科學。專長是常常能在 Netflix 的影集中，體悟出人生的大道理。
+bio: 台灣人，研究興趣是計算機語言學、機器學習、二語習得與學習科學。專長是常常能在 Netflix 的影集中，體悟出人生的大道理。
 
 interests:
   - 計算機語言學
@@ -37,18 +37,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house-chimney
+    icon_pack: fas
+    link: https://chungche-huang.meclass.la
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chungche@psu.ac.th'
-  - icon: home
-    icon_pack: fas
-    link: https://chungche-huang.meclass.la
   - icon: github
     icon_pack: fab
     link: https://github.com/jerstyles
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/@jerjer687
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/chungche-huang-0a563519b
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -62,4 +65,4 @@ user_groups:
   - Teachers
 ---
 
-我的研究興趣是[計算機語言學](https://en.wikipedia.org/wiki/Computational_linguistics)、[認知語言學](https://en.wikipedia.org/wiki/Cognitive_linguistics)與[二語習得](https://en.wikipedia.org/wiki/Second-language_acquisition)，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。
+現任大學華語講師，我的研究興趣是[計算機語言學](https://en.wikipedia.org/wiki/Computational_linguistics)、[認知語言學](https://en.wikipedia.org/wiki/Cognitive_linguistics)與[二語習得](https://en.wikipedia.org/wiki/Second-language_acquisition)，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。

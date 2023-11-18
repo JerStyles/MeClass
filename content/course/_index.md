@@ -11,4 +11,7 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+歷年來的所有課程，都可以在這裡找到 😎
+{style="color: lightgray;"}
+<br>
+

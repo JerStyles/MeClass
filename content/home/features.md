@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: 課程特色
+subtitle: ✨ 我們比其他課程好在哪裡？
 feature:
-  - icon: chalkboard-teacher
+  - icon: school
     icon_pack: fas
-    name: Slides
+    name: 真實大學課程
     description:
-  - icon: video
+  - icon: chalkboard-user
     icon_pack: fas
-    name: Video
+    name: 專業教授講師
     description:
-  - icon: code
+  - icon: globe
     icon_pack: fas
-    name: Math & Code
+    name: 線上隨時學習
     description:
 ---
