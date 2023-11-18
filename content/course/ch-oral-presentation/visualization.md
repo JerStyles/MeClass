@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Visualization
 date: '2021-01-01'
 type: book

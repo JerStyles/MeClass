@@ -1,8 +1,8 @@
 ---
-title: Python basics
+title: Week 0 知識萃取
 date: '2021-01-01'
 type: book
-weight: 20
+weight: 1
 ---
 
 Build a foundation in Python.
