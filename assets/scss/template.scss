@@ -14,6 +14,19 @@ button.docs-toggle:hover, button.docs-toggle:focus{
   color: #ffc107
 }
 
+// body {
+//   font-weight: 500;
+// }
+
+h1, h2, h2 a, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+.navbar-brand {
+  padding: 0.3rem;
+}
+
+
 //END Customized SCSS
 
 // Remove shadow under navbar

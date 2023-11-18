@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day:
+  theme_day: 
   theme_night: custom
   font: zh-Hans
   font_size: L

@@ -2,7 +2,7 @@
 name = "zh-Hans"
 
 # Optional Google font URL
-google_fonts = "family=Noto+Sans+TC:wght@200;400;700"
+google_fonts = "family=Noto+Sans+TC:wght@200;400;500;700"
 
 # Font families
 heading_font = "Noto Sans TC"

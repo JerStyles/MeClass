@@ -5,7 +5,7 @@ summary: An example of using Hugo Blox Builder's Book layout for publishing onli
 date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - 2023-1
 ---
 
 {{< figure src="featured.jpg" >}}

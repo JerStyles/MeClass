@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: 精選好課程
 subtitle:
 content:
   filters:
@@ -16,12 +16,12 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: 全部課程
       tag: '*'
-    - name: Previous
-      tag: previous
-    - name: Current
-      tag: current
+    - name: 上課中
+      tag: 2023-2
+    - name: 已結束
+      tag: 2023-1
 design:
   columns: '1'
   view: masonry
