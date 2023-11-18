@@ -11,7 +11,7 @@ feature:
     description:
   - icon: chalkboard-user
     icon_pack: fas
-    name: 專業教授講師
+    name: 專業大學講師
     description:
   - icon: globe
     icon_pack: fas
