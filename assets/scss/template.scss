@@ -1,19 +1,26 @@
 
 // START Customized SCSS
 
-// .dark .btn-primary,
-// .dark .btn.btn-primary.active {
-//   color: #fff;
+.dark .btn-primary,
+.dark .btn.btn-primary.active {
+  color: #fff;
+}
+
+// .docs-content {
+//   background-color: #000;
 // }
 
-.docs-content {
-  background-color: #000;
-}
+button.docs-toggle, .dark button.docs-toggle {
+  color: inherit !important;
 
-button.docs-toggle:hover, button.docs-toggle:focus{
-  color: #ffc107
+  &:hover, &:focus {
+    color: inherit !important;
+  }
 }
-
+// .dark .docs-toc-link {
+//   color: #ffc107 !important;
+//   opacity: 0.9;
+// }
 // body {
 //   font-weight: 500;
 // }
@@ -23,6 +30,13 @@ footer a  {
 
 h1, h2, h2 a, h3, h4, h5, h6 {
   font-weight: 700;
+
+  .dark & {
+    opacity: 0.9;
+  }
+}
+p, li {
+opacity: 0.9;
 }
 
 mark {

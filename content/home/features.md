@@ -7,11 +7,11 @@ subtitle: ✨ 我們比其他課程好在哪裡？
 feature:
   - icon: school
     icon_pack: fas
-    name: 真實大學課程
+    name: 公開課程
     description:
   - icon: chalkboard-user
     icon_pack: fas
-    name: 專業大學講師
+    name: 專業講師
     description:
   - icon: globe
     icon_pack: fas

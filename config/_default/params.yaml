@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: 
+  theme_default: system
+  theme_day: custom
   theme_night: custom
   font: zh-Hans
   font_size: L
