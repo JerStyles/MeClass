@@ -7,9 +7,9 @@ name = "Custom"
 
   # Menu
   menu_primary = "#24C2CB"
-  menu_text = "#fff"
-  menu_text_active = "#00828B"
-  menu_title = "#fff"
+  menu_text = "#3c3e40"
+  menu_text_active = "#000"
+  menu_title = "#3c3e40"
 
   # Backgrounds
   background = "#EAE7D6"
@@ -22,7 +22,7 @@ name = "Custom"
 
   # Menu
   menu_primary = "#24C2CB"
-  menu_text = "#56595c"
+  menu_text = "#3c3e40"
   menu_text_active = "#000"
   
 

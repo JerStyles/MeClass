@@ -1,6 +1,9 @@
 ---
 # Display name
 title: 黃崇哲
+first_name: Chungche
+last_name: Huang
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -63,6 +66,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
+
 ---
 
 現任大學華語講師，我的研究興趣是[計算機語言學](https://en.wikipedia.org/wiki/Computational_linguistics)、[認知語言學](https://en.wikipedia.org/wiki/Cognitive_linguistics)與[二語習得](https://en.wikipedia.org/wiki/Second-language_acquisition)，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。

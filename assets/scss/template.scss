@@ -28,7 +28,7 @@ footer a  {
   color:  inherit !important;
 }
 
-h1, h2, h2 a, h3, h4, h5, h6 {
+h1, h2, h2 a, h3, h4, h5, h6, .section-subheading {
   font-weight: 700;
 
   .dark & {
@@ -43,7 +43,8 @@ mark {
   background: rgba(253,126,21,0.5) !important;
 }
 .navbar-brand {
-  padding: 0.3rem;
+  padding: 0.35rem;
+  opacity: 0.9;
 }
 
 
