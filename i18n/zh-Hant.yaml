@@ -39,7 +39,7 @@
   translation: '圖%d:'
 
 - id: edit_page
-  translation: 編輯本業
+  translation: 編輯本頁
 
 # Themes
 
@@ -47,13 +47,13 @@
   translation: 顯示選項
 
 - id: theme_light
-  translation: 明亮
+  translation: ☀️ 亮色模式
 
 - id: theme_dark
-  translation: 暗黑
+  translation: 🌛 深色模式
 
 - id: theme_auto
-  translation: 自動
+  translation: 🔧 自動
 
 # Buttons
 
