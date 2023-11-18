@@ -1,4 +1,6 @@
 ---
+editable: false
+pager: false
 title: Week 3 語用
 date: '2021-01-01'
 type: book

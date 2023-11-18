@@ -55,8 +55,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006年Jan2日'
+  time_format: '15:04'
 
 # Site features
 
@@ -69,21 +69,24 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/theme-online-course'
+    url: 'https://github.com/JerStyles/MeClass'
     content_dir: content
     branch: main
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'JerStyles/MeClass'
+      repo_id: 'R_kgDOKtpYhA'
+      category: 'General'
+      category_id: 'DIC_kwDOKtpYhM4CbDdp'
+      theme: transparent_dark
+      language_code: zh-TW
+      mapping: title
   search:
     provider: wowchemy
     algolia:
