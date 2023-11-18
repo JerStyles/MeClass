@@ -8,7 +8,13 @@ date: '2023-11-15'
 type: book
 tags:
   - 2023-2
-pager: true
+pager: false
+image:
+  placement: 1
+  caption: 'Photo by [Wonderlane](https://unsplash.com/%2540wonderlane?utm_content%253DcreditCopyText%2526utm_medium%253Dreferral%2526utm_source%253Dunsplash%2522%253E) on [Unsplash](https://unsplash.com/photos/woman-holding-microphone-w1s5H_3Zn48?utm_content%253DcreditCopyText%2526utm_medium%253Dreferral%2526utm_source%253Dunsplash)'
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: Photo by [Wonderlane](https://unsplash.com/%2540wonderlane?utm_content%253DcreditCopyText%2526utm_medium%253Dreferral%2526utm_source%253Dunsplash%2522%253E) on [Unsplash](https://unsplash.com/photos/woman-holding-microphone-w1s5H_3Zn48?utm_content%253DcreditCopyText%2526utm_medium%253Dreferral%2526utm_source%253Dunsplash).
 ---
 
 {{< toc hide_on="xl" >}}

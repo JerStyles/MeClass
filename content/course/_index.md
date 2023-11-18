@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 課程
 type: page
 tags:
   - preface
