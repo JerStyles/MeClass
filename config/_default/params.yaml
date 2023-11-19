@@ -84,7 +84,7 @@ features:
       repo_id: 'R_kgDOKtpYhA'
       category: 'General'
       category_id: 'DIC_kwDOKtpYhM4CbDdp'
-      theme: transparent_dark
+      theme: none
       language_code: zh-TW
       mapping: url
   search:
