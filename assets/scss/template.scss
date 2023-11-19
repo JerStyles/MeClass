@@ -37,6 +37,9 @@ h1, h2, h2 a, h3, h4, h5, h6, .section-subheading {
 }
 p, li, #comments {
 opacity: 0.88;
+  .dark & {
+    opacity: 0.9;
+  }
 }
 
 mark {
