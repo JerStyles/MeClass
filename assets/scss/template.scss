@@ -40,13 +40,18 @@ opacity: 0.9;
 }
 
 mark {
-  background: rgba(253,126,21,0.5) !important;
+  // background: #fd7e14 !important;
+  background: rgba(111, 66, 193, 0.88) !important;
+  color: #fff;
 }
 .navbar-brand {
   padding: 0.35rem;
   opacity: 0.9;
 }
 
+.theme-dropdown, .anchorjs-link {
+  display: none !important;
+}
 
 //END Customized SCSS
 
