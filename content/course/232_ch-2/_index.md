@@ -3,7 +3,7 @@ commentable: true
 editable: false
 title: 基礎華語二（894-112）
 linkTitle: 基礎華語二
-summary: 本課程強調學習辨讀繁體漢字，以及口語聽說訓練。另外，基礎漢語二由多位講師共同教授，本網頁僅包含黃崇哲老師負責的部分。
+summary: 本課程學習辨讀繁體漢字，以及口語聽說。另外，本課程由多位講師共同教授，而本網頁僅包含黃老師負責的部分。
 date: '2022-11-20'
 pager: false
 type: book

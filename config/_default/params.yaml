@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: ''
+    org_name: '米課室線上學習平台'
+    description: '米課室（MeClass）是專門為宋卡王子大學（PSU）華語專業的學生而量身設計的課程學習平台。所有的學習資料，同時也公開分享給校外人士使用。'
     twitter: ''
   analytics:
     google_analytics: ''
