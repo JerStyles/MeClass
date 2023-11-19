@@ -23,9 +23,7 @@ interests:
   - 計算機語言學
   - 認知語言學
   - 二語習得
-  - 機器學習
-  - 學習科學
-
+  
 education:
   courses:
     - course: 碩士，華語教學碩士學位學程
@@ -35,6 +33,11 @@ education:
       institution: 國立台灣大學
       year: 2014
 
+officeHours:
+    - 星期（一）早上 08:00 - 10:00 
+    - 星期（一）下午 15:00 - 19:00 
+    - 每人、每次 20 分鐘
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -63,10 +66,14 @@ email: ''
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
 
 ---
 
+## 講師介紹
+---
 現任大學華語講師，我的研究興趣是[計算機語言學](https://en.wikipedia.org/wiki/Computational_linguistics)、[認知語言學](https://en.wikipedia.org/wiki/Cognitive_linguistics)與[二語習得](https://en.wikipedia.org/wiki/Second-language_acquisition)，特別着迷於將機器學習的研究成果，應用在語言學習與教學現場上。我認為這是解決當代亞洲教育與社會問題的關鍵與契機。
+
+

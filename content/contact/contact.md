@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 聯繫講師
 subtitle:
 
 content:
@@ -19,8 +19,8 @@ content:
   contact_links:
     - icon: comments
       icon_pack: fas
-      name: Discuss on the forum
-      link: 'https://github.com/HugoBlox/hugo-blox-builder/discussions'
+      name: 米課室的討論區
+      link: 'https://github.com/JerStyles/MeClass/discussions'
 
   # Automatically link email and phone or display as text?
   autolink: true
@@ -38,4 +38,3 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
