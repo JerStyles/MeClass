@@ -40,10 +40,15 @@ opacity: 0.9;
 }
 
 mark {
-  // background: #fd7e14 !important;
-  background: rgba(111, 66, 193, 0.88) !important;
-  color: #fff;
+  // Regular background color
+  background: rgba(255, 193, 151, 0.88) !important;
+
+  // Dark mode background color
+  .dark & {
+    background: rgba(111, 66, 193, 0.6) !important;
+  }
 }
+
 .navbar-brand {
   padding: 0.35rem;
   opacity: 0.9;

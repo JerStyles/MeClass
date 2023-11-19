@@ -86,7 +86,7 @@ features:
       category_id: 'DIC_kwDOKtpYhM4CbDdp'
       theme: transparent_dark
       language_code: zh-TW
-      mapping: title
+      mapping: url
   search:
     provider: wowchemy
     algolia:
