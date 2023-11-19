@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: '米課室 MeClass - 為你精選的好課程' # Website name
+title: '米課室 MeClass' # Website name
 baseURL: 'https://meclass.la' # Website URL
 
 ############################
