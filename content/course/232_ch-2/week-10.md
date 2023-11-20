@@ -2,7 +2,7 @@
 commentable: true
 editable: false
 pager: false
-title: Week 10 復習
+title: Week 10 復習 Review
 date: '2023-11-20'
 type: book
 slides:
