@@ -2,7 +2,7 @@
 commentable: true
 editable: false
 pager: false
-title: Week 17 期末考試
+title: Week 17 期末考週
 date: '2023-11-20'
 type: book
 slides:

@@ -2,7 +2,7 @@
 commentable: true
 editable: false
 pager: false
-title: Week 9 期中考試
+title: Week 9 期中考週
 date: '2023-11-20'
 type: book
 slides:
