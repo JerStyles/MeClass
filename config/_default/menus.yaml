@@ -18,6 +18,10 @@ main:
     PageRef: course/232_ch-2/_index.md
     weight: 10
     parent: courses
+  - name: 894-361 跨境電商專案
+    PageRef: course/232_ch-ecommerce
+    weight: 10
+    parent: courses
   - name: 關於講師
     PageRef: authors/chungche-huang/
     weight: 30
