@@ -1,10 +1,8 @@
 ---
 editable: false
 pager: false
-title: Week 8 影片簡報
+title: Week 8 實體簡報—團體
 date: '2021-01-01'
 type: book
-weight: 9
+weight: 8
 ---
-
-
