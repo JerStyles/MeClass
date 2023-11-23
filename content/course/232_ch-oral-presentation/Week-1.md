@@ -10,7 +10,7 @@ slides:
 weight: 1
 ---
 
-Build a foundation in Python.
+根據觀衆的不同，設計内容與架構
 
 <!--more-->
 ## 學習資源
