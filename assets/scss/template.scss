@@ -57,6 +57,9 @@ mark {
   opacity: 0.9;
 }
 
+.unset {
+  all: unset;
+}
 .theme-dropdown, li .anchorjs-link {
   display: none !important;
 }

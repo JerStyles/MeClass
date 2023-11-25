@@ -99,3 +99,7 @@ features:
 extensions:
   academicons:
     enable: false
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: false
