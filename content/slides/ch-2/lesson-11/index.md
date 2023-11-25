@@ -1,15 +1,12 @@
 ---
-title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: ['Tutorials']
+title: 第十一課
+summary: 複習第十一課重點語法，並練習聽說
+authors: [Chungche Huang]
+tags: []
 categories: []
-date: '2019-02-05'
+date: '2023-11-25'
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-  # Choose a code highlighting style (see Hugo docs on Chroma)
-  #   Light style: github-light. Dark style: dracula (default).
   highlight_style: dracula
 ---
 

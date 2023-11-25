@@ -9,7 +9,14 @@ slides: ch-2/Lesson-11/index.md
 weight: 2
 ---
 
-## 投影片
+## 課本部分
+
+|No.|語法點|第幾頁|
+|---|---|---|
+|1.|V+得+很+Adv|Page 11|
+|2.|V+了+Nu-M+O|Page 14|
+
+## 投影片 PPT
 
 <div class="card mb-3 p-0">
   <div class="row g-0 p-0">
