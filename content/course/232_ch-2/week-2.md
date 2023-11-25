@@ -4,10 +4,11 @@ editable: false
 pager: false
 title: Week 2 第十一課
 date: '2023-11-20'
-type: page
-slides: /slides/ch-2/Lesson-11/
+type: pages
+slides: ch-2/Lesson-11/index.md
 weight: 2
 ---
+
 ## 投影片
 
 <div class="card mb-3 p-0">
@@ -24,7 +25,7 @@ weight: 2
             <a href="/slides/ch-2/lesson-11/" target="_blank" class="btn btn-primary btn-lg">看投影片<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
           </li>
           <li>
-            <a href="/slides/ch-2/lesson-11/?print-pdf" class="link-primary">下載 PDF<i class="fa-solid fa-chevron-right mx-1"></i></a>
+            <a href="/slides/ch-2/lesson-11/?print-pdf" target="_blank"class="link-primary">下載 PDF<i class="fa-solid fa-chevron-right mx-1"></i></a>
           </li>
         </ul>
       </div>
