@@ -21,10 +21,10 @@ weight: 2
         <p class="card-text p-0">「V+O+V+得」&「S+V+了」</p>
         <ul class="cta-group justify-content-start my-0 py-0">
           <li>
-            <a href="/slides/ch-2/lesson-11/" target="_blank" class="btn btn-primary btn-lg">看投影片<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
+            <a href="/slides/ch-2/lesson-11/_index.md" target="_blank" class="btn btn-primary btn-lg">看投影片<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
           </li>
           <li>
-            <a href="/slides/ch-2/lesson-11/?print-pdf" class="link-primary">下載 PDF<i class="fa-solid fa-chevron-right mx-1"></i></a>
+            <a href="/slides/ch-2/lesson-11/_index.md?print-pdf" class="link-primary">下載 PDF<i class="fa-solid fa-chevron-right mx-1"></i></a>
           </li>
         </ul>
       </div>
