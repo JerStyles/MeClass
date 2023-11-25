@@ -4,8 +4,8 @@ editable: false
 pager: false
 title: Week 2 第十一課
 date: '2023-11-20'
-type: book
-slides: ch-2/Lesson-11/index.md
+type: page
+slides: ch-2/Lesson-11/_index.md
 weight: 2
 ---
 ## 投影片
