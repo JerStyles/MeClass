@@ -122,6 +122,12 @@ Reveal.initialize({
       { icon: '<i class="fa fa-pen"></i>',
         title: 'Toggle notes canvas (C)',
         action: 'RevealChalkboard.toggleNotesCanvas();'
+      },
+      {
+        id: 'toggle-overview',
+        title: 'Toggle overview (O)',
+        icon: '<i class="fa fa-th"></i>',
+        action: 'Reveal.toggleOverview();'
       }
     ]
   },
