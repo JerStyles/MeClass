@@ -69,11 +69,13 @@ table {
 }
 
 // customize btn of office-hours
-.TUIr4b {
+#btn_office-hours button {
   font-weight: 600 !important;
   color: #fff !important;
-  opacity: 0.9;
+  opacity: 0.9 !important;
+  padding: 0.8rem !important;
 }
+
 
 //END Customized SCSS
 
