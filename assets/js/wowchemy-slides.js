@@ -113,7 +113,8 @@ if (params.slides.diagram) {
 }
 
 Reveal.initialize({
-   slideNumber: 'c/t',
+  // transition: 'concave',
+  slideNumber: 'c/t',
   customcontrols: {
     controls: [
       { icon: '<i class="fa fa-pen-square"></i>',
@@ -145,5 +146,5 @@ Reveal.initialize({
       { color: 'rgba(255,220,0, 1)', cursor: 'url(' + path + 'img/chalk-yellow.png), auto'}
 ]
   },
-  plugins: [RevealChalkboard, RevealCustomControls]
+  plugins: [RevealChalkboard, RevealCustomControls, RevealLoadContent, RevealAnything]
 });
