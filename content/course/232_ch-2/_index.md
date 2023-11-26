@@ -79,3 +79,10 @@ image:
 {{< spoiler text="突然有急事的話，我要怎麼請假？" >}}
 不需要請假，本課程不點名。原則很簡單，你想上課就來上課，沒心情來，我也不想強迫你。你已經成年了，必須自己做決定，而且為自己的決定負責。
 {{< /spoiler >}}
+
+{{< spoiler text="怎麼下載投影片的 PDF 檔案？" >}}
+1. 點擊 <mark>下載 PDF ></mark>
+1. 到了投影片頁面之後，選擇 <mark>列印</mark>
+1. 選擇自己想要的列印模式，另存成 PDF 檔案
+1. 更多細節請參考：[Reveal JS - Export PDF](https://revealjs.com/pdf-export/)
+{{< /spoiler >}}
