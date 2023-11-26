@@ -8,6 +8,7 @@ date: '2023-11-25'
 slides:
   theme: black
   highlight_style: dracula
+  diagram: true
 ---
 
 <h1 class="r-fit-text">第十一課</h1>
