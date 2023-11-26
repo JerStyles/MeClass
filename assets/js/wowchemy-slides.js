@@ -113,6 +113,7 @@ if (params.slides.diagram) {
 }
 
 Reveal.initialize({
+   slideNumber: 'c/t',
   customcontrols: {
     controls: [
       { icon: '<i class="fa fa-pen-square"></i>',
