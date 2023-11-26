@@ -135,7 +135,7 @@ Reveal.initialize({
         id: 'full-screen',
         icon: '<i class="fa-solid fa-expand"></i>',
         title: 'Toggle Full Screen',
-        action: 'Reveal.enterFullScreen();'
+        action: 'screenfull.toggle();'
       }
     ]
   },
