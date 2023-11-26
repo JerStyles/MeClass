@@ -384,7 +384,9 @@ The action has been progressing up to the time when it is brought up in the conv
 
 ## 補充
 
-<p style="text-transform: capitalize"> V+了+[NOT quantified object]+了 <br>＝ V＋O＋了</p>
+> Same meaning 
+> - V+了+[NOT quantified object]+了   
+> - V＋O＋了
 
 - 我念了書了 ＝ 我念書了（以前沒念）
 - 我今天寫了作業了 ＝ 我今天寫作業了（昨天沒寫）
