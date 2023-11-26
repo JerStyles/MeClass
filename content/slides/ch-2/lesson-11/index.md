@@ -10,159 +10,141 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+<h1 class="r-fit-text">第十一課</h1>
 
-[Wowchemy](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
+<p class="r-fit-text">我玩兒得非常高興</p>
 
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
 
 ---
 
-## Controls
+## V+得+很/真/非常+Adj
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+- 我吃飯，很快 → 我吃得很快
+- 她畫畫兒，真好 → 
+- 他唱歌，很好聽 →
 
 ---
 
-## Code Highlighting
+## V+得+很不/真不/非常不/不+Adj
 
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+- 我吃飯，不快 → 我吃得不快
+- 她畫畫，真不好 →
+- 她唱歌，非常不好聽 →
 
 ---
 
-## Math
+## V+O+V+得+很/真/非常+Adj
 
-In-line math: $x + y = z$
+- 他畫畫兒，真好 → 他畫畫兒畫得真好
+- 我吃飯，很快 →
+- 她唱歌，非常好聽 →
+---
 
-Block math:
+## V+O+V+得+很不/真不/非常不+Adj
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+- 他畫畫兒，真不好 → 他畫畫兒畫得真不好
+- 我吃飯，不快 →
+- 她唱歌，非常不好聽 →
 
 ---
 
-## Fragments
+## S，O+V+得+很/真/非常+Adj
 
-Make content appear incrementally
-
-```
-{{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
-{{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
-{{</* fragment */>}} $+ \boldsymbol\varepsilon$ {{</* /fragment */>}}
-```
-
-Press `Space` to play!
-
-{{< fragment >}} $\mathbf{y} =  $ {{< /fragment >}}
-{{< fragment >}} $X\boldsymbol\beta$ {{< /fragment >}}
-{{< fragment >}} $+ \boldsymbol\varepsilon$ {{< /fragment >}}
+- 你朋友說華語說得很好 → 你朋友，華語說得很好。
+- 你寫字寫得真漂亮 →
+- 她兒子念書念得很好 → 
 
 ---
 
-A fragment can accept two optional parameters:
+## S，O+V+得+很不/真不/不太+Adj
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-
-{{< /speaker_note >}}
+- 你朋友說漢語說得不太好 → 你朋友，漢語說得不太好。
+- 你寫日本字寫得不好看 →
+- 她兒子念書念得不好 →
 
 ---
 
-## Themes
+## S的O+V+得+很/真/非常+Adj
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+- 你朋友說漢語說得很好 → 你朋友的漢語說得很好。
+- 你寫字寫得真漂亮 →
+- 她兒子念書念得很好 →
+---
+
+## S的O+V+得+很不/真不/不太+Adj
+
+- 你朋友說漢語說得不太好 → 你朋友的漢語說得不太好
+- 你寫日本字寫得不好看 → 
+- 她兒子念書念得不好 →
 
 ---
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+{{< slide background-image="https://media.tenor.com/wYaAw3v5zN0AAAAC/tiziano-ferro-rain.gif">}}
+
+## 練習 3-1：問題
+
+<h3 style="background-color: beige; color: black; display: inline">今天下雨嗎？</h3>
+
+--- 
+
+{{< slide background-image="https://media.tenor.com/wYaAw3v5zN0AAAAC/tiziano-ferro-rain.gif">}}
+
+## 練習 3-1：語法
+
+<span style="display: block; background-color: #0A0A0A; opacity: 80%">
+
+- S的O+V+得 + 很/真/非常/不太 Adj
+- S，O+V+很/真/非常/不太+Adj
+- S+V+O+V+得+很/真/非常/不太+Adj
+- S+V+得+很/真/非常/不太+Adj
+
+</span>
 
 ---
 
-{{< slide background-image="boards.webp" >}}
+{{< slide background-image="https://media.tenor.com/kP9EwLejjMMAAAAC/alvin-cailan-cooking.gif">}}
 
-## Custom Slide
+## 練習 3-2：問題
 
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="boards.webp" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+<h3 style="background-color: beige; color: black; display: inline">他做的菜，好吃嗎？</h3>
 
 ---
 
-## Custom CSS Example
+{{< slide background-image="https://media.tenor.com/kP9EwLejjMMAAAAC/alvin-cailan-cooking.gif">}}
 
-Let's make headers navy colored.
+## 練習 3-2：語法
 
-Create `assets/css/reveal_custom.css` with:
 
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
+<span style="display: block; background-color: #0A0A0A; opacity: 80%">
+
+- S的O+V+得 + 很/真/非常/不太 Adj
+- S，O+V+很/真/非常/不太+Adj
+- S+V+O+V+得+很/真/非常/不太+Adj
+- S+V+得+很/真/非常/不太+Adj
+
+</span>
 
 ---
 
-# Questions?
 
-[Ask](https://discord.gg/z8wNYzb)
+{{< slide background-image="https://media.tenor.com/ivjZC78yqLcAAAAd/%25E0%25A8%25B9%25E0%25A8%25BE%25E0%25A8%2587-gifkaro.gif">}}
 
-[Documentation](https://docs.hugoblox.com/content/slides/)
+## 練習 3-3：問題
+
+<h3 style="background-color: beige; color: black; display: inline">他買衣服，買得多不多？</h3>
+
+---
+
+{{< slide background-image="https://media.tenor.com/ivjZC78yqLcAAAAd/%25E0%25A8%25B9%25E0%25A8%25BE%25E0%25A8%2587-gifkaro.gif">}}
+
+## 練習 3-3：語法
+
+
+<span style="display: block; background-color: #0A0A0A; opacity: 80%">
+
+- S的O+V+得 + 很/真/非常/不太 Adj
+- S，O+V+很/真/非常/不太+Adj
+- S+V+O+V+得+很/真/非常/不太+Adj
+- S+V+得+很/真/非常/不太+Adj
+
+</span>
