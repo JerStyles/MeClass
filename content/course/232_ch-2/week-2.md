@@ -8,7 +8,9 @@ type: book
 slides: ch-2/Lesson-11/index.md
 weight: 2
 ---
+聽說讀練習，語法點：得、了
 
+<!--more-->
 ## 課本部分
 
 |No.|語法點|第幾頁|
