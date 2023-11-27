@@ -130,13 +130,7 @@ Reveal.initialize({
         title: 'Toggle overview (O)',
         icon: '<i class="fa fa-th"></i>',
         action: 'Reveal.toggleOverview();'
-       } // ,
-      // {
-      //   id: 'full-screen',
-      //   icon: '<i class="fa-solid fa-expand"></i>',
-      //   title: 'Toggle Full Screen',
-      //   action: 'screenfull.toggle();'
-      // }
+       } 
     ]
   },
   chalkboard: {
