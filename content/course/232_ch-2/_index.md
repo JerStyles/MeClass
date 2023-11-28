@@ -81,8 +81,8 @@ image:
 {{< /spoiler >}}
 
 {{< spoiler text="怎麼下載投影片的 PDF 檔案？" >}}
-1. 點擊 <mark>下載 PDF ></mark>
-1. 到了投影片頁面之後，選擇 <mark>列印</mark>
-1. 選擇自己想要的列印模式，另存成 PDF 檔案
+1. 點擊 <mark>列印 PDF <i class="fas fa-print"></i></mark>
+1. 設定列印的紙張大小、直式或橫式
+1. 輸出或另存為 PDF 檔案
 1. 更多細節請參考：[Reveal JS - Export PDF](https://revealjs.com/pdf-export/)
 {{< /spoiler >}}
