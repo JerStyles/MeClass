@@ -66,7 +66,7 @@ image:
 
 ## 7. 課程教材
 ---
-- 新實用漢語課本 2（第3版）[{{< icon name="up-right-from-square" pack="fas" >}}](http://www.blcup.net/PInfo/index/10880)
+- 新實用漢語課本 2（第3版）<a href="/textbooks/New-Practical-Chinese-2-v3.pdf" target="_blank">{{< icon name="up-right-from-square" pack="fas" >}} </a>
 - 教師自編輔助教材
 
 ## FAQ
