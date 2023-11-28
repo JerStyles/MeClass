@@ -45,24 +45,6 @@
     {{ $style := slice $css_custom | resources.Concat "css/reveal_custom.css" | resources.Minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
   {{ end }}
-
-  {{ if $.Param "slides.plugins" | default true }}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-plugins/menu/font-awesome/css/fontawesome.css">
-    <!-- Font awesome is required for the chalkboard plugin -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Custom controls plugin is used to for opening and closing annotation modes. -->
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/customcontrols/plugin.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/customcontrols/style.css">
-    <!-- Chalkboard plugin -->
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/plugin.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/style.css">
-    <!-- Load content plugin -->
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/loadcontent/plugin.js"></script>
-    <!-- Anything plugin -->
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/anything/plugin.js"></script>
-  {{ end }}
-
 </head>
 <body>
 
@@ -91,5 +73,72 @@
   {{/* Initialize slides. */}}
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" (dict "slides" $.Params.slides )) }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
+  
+  {{ if $.Param "slides.plugins" | default true }}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-plugins/menu/font-awesome/css/fontawesome.css">
+  <!-- Font awesome is required for the chalkboard plugin -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Custom controls plugin is used to for opening and closing annotation modes. -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/customcontrols/plugin.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/customcontrols/style.css">
+  <!-- Chalkboard plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/plugin.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/style.css">
+  {{/*  <!-- Load content plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/loadcontent/plugin.js"></script>
+  <!-- Anything plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/anything/plugin.js"></script>  */}}
+  <script src="https://cdn.jsdelivr.net/npm/full-screen-helper@1.0.5/full-screen-helper.min.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/full-screen-helper@1.0.5/full-screen-helper.min.css">
+  {{ end }} 
+  <script>
+    const isPrintingPDF = /print-pdf/gi.test(window.location.search);
+
+    if (!isPrintingPDF) {
+    Reveal.initialize({
+      // transition: 'concave',
+      slideNumber: 'c/t',
+      customcontrols: {
+        controls: [
+          { icon: '<i class="fa fa-pen-square"></i>',
+            title: 'Toggle chalkboard (B)',
+            action: 'RevealChalkboard.toggleChalkboard();'
+          },
+          { icon: '<i class="fa fa-pen"></i>',
+            title: 'Toggle notes canvas (C)',
+            action: 'RevealChalkboard.toggleNotesCanvas();'
+          },
+          {
+            id: 'toggle-overview',
+            title: 'Toggle overview (O)',
+            icon: '<i class="fa fa-th"></i>',
+            action: 'Reveal.toggleOverview();'
+          },
+          {
+            id: 'toggle-fullscreen',
+            title: 'Toggle fullscreen (F)',
+            icon: '<i class="fas fa-expand"></i>',
+            action: 'FullScreenHelper.toggle(document.documentElement);'
+          } 
+        ]
+      },
+      chalkboard: {
+        chalkEffect: 0.3,
+        eraser: { src: path + 'img/sponge.png', radius: 50},
+        chalks: [
+          { color: 'rgba(255,255,255,1)', cursor: 'url(' + path + 'img/chalk-white.png), auto'},
+          { color: 'rgba(96, 154, 244, 1)', cursor: 'url(' + path + 'img/chalk-blue.png), auto'},
+          { color: 'rgba(237, 20, 28, 1)', cursor: 'url(' + path + 'img/chalk-red.png), auto'},
+          { color: 'rgba(20, 237, 28, 1)', cursor: 'url(' + path + 'img/chalk-green.png), auto'},
+          { color: 'rgba(220, 133, 41, 1)', cursor: 'url(' + path + 'img/chalk-orange.png), auto'},
+          { color: 'rgba(220,0,220, 1)', cursor: 'url(' + path + 'img/chalk-purple.png), auto'},
+          { color: 'rgba(255,220,0, 1)', cursor: 'url(' + path + 'img/chalk-yellow.png), auto'}
+    ]
+      },
+      plugins: [RevealChalkboard, RevealCustomControls]
+    });
+  }
+  </script>
 </body>
 </html>
