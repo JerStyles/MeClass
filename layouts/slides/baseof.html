@@ -138,6 +138,12 @@
       },
       plugins: [RevealChalkboard, RevealCustomControls]
     });
+  } else {
+    window.onload = function() {
+      setTimeout(function() {
+        window.print();
+      }, 500); // Using a small timeout to allow the print dialog to appear after the page has loaded
+    };
   }
   </script>
 </body>
