@@ -99,9 +99,9 @@ slides:
 <span style="display: block; background-color: #0A0A0A; opacity: 80%">
 
 - S的O+V+得 + 很/真/非常/不太 Adj
-- S，O+V+很/真/非常/不太+Adj
-- S+V+O+V+得+很/真/非常/不太+Adj
-- S+V+得+很/真/非常/不太+Adj
+- S，O+V+得 + 很/真/非常/不太 Adj
+- S+V+O+V+得 + 很/真/非常/不太 Adj
+- S+V+得 + 很/真/非常/不太 Adj
 
 </span>
 
@@ -123,9 +123,9 @@ slides:
 <span style="display: block; background-color: #0A0A0A; opacity: 80%">
 
 - S的O+V+得 + 很/真/非常/不太 Adj
-- S，O+V+很/真/非常/不太+Adj
-- S+V+O+V+得+很/真/非常/不太+Adj
-- S+V+得+很/真/非常/不太+Adj
+- S，O+V+得 + 很/真/非常/不太 Adj
+- S+V+O+V+得 + 很/真/非常/不太 Adj
+- S+V+得 + 很/真/非常/不太 Adj
 
 </span>
 
@@ -148,9 +148,9 @@ slides:
 <span style="display: block; background-color: #0A0A0A; opacity: 80%">
 
 - S的O+V+得 + 很/真/非常/不太 Adj
-- S，O+V+很/真/非常/不太+Adj
-- S+V+O+V+得+很/真/非常/不太+Adj
-- S+V+得+很/真/非常/不太+Adj
+- S，O+V+得 + 很/真/非常/不太 Adj
+- S+V+O+V+得 + 很/真/非常/不太 Adj
+- S+V+得 + 很/真/非常/不太 Adj
 
 </span>
 
@@ -269,7 +269,7 @@ When 了 appears at the end of a sentence, it expresses a new situation or chang
 
 ## 問答練習 2-2
 
--	一周以前是幾月？現在是幾月？
+-	一個月以前是幾月？現在是幾月？
 - 你念高中（high school）的時候多高？現在多高？
 - 你家人早上六點在家嗎？現在還在家嗎？
 - 九點的時候學生都來了嗎？現在呢？
