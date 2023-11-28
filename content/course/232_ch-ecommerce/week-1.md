@@ -5,9 +5,6 @@ pager: false
 title: Week 1 Lighting
 date: '2023-11-21'
 type: book
-slides:
-  theme: black # Reveal JS theme name
-  highlight_style: dracula # Highlight JS theme name
 weight: 2
 ---
 
