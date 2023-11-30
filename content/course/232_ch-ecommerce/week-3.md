@@ -2,13 +2,13 @@
 commentable: true
 editable: false
 pager: false
-title: Week 2 Lightroom
+title: Week 3 Editing photos
 date: '2023-11-21'
 type: book
 weight: 2
 ---
 
-用手機與平板的相機拍產品照
+用 Lightroom 修圖
 <!--more--> 
 ## 學習資源
 

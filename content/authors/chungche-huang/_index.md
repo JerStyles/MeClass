@@ -48,7 +48,7 @@ social:
     link: https://chungche-huang.meclass.la
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chungche@psu.ac.th'
+    link: 'mailto:chungche.h@psu.ac.th'
   - icon: github
     icon_pack: fab
     link: https://github.com/jerstyles
