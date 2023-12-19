@@ -8,7 +8,7 @@ type: book
 weight: 2
 ---
 
-拍出賣相好、符合消費者期待的照片
+Take listing photos that sell to Chinese customers
 <!--more--> 
 ## 學習資源
 

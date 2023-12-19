@@ -8,7 +8,8 @@ type: book
 weight: 2
 ---
 
-用 Lightroom 修圖
+Retouch listing photos that Chinese custmers like
+
 <!--more--> 
 ## 學習資源
 
