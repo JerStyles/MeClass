@@ -2,7 +2,7 @@
 commentable: true
 editable: false
 pager: false
-title: Leson 11
+title: Lesson 11
 date: '2023-11-20'
 type: book
 slides:
