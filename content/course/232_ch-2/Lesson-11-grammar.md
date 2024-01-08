@@ -2,7 +2,7 @@
 commentable: true
 editable: false
 pager: false
-title: Week 2 第十一課
+title: Lesson 11 Grammar
 date: '2023-11-20'
 type: book
 slides: ch-2/Lesson-11/index.md

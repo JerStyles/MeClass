@@ -2,7 +2,7 @@
 commentable: true
 editable: false
 pager: false
-title: Week 4 第十二課
+title: Lesson 12
 date: '2023-11-20'
 type: book
 slides:
