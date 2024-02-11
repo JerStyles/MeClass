@@ -2,9 +2,9 @@
 editable: false
 pager: false
 title: 期末考試：團體報告
-date: '2021-01-01'
+date: '2024-02-21'
 type: book
-weight: 16
+weight: 9
 ---
 
 <!--more-->
@@ -13,7 +13,7 @@ weight: 16
 - 每組考試 30 分鐘，包含簡報與問答。
 - 給分標準，請參考[評分方式](https://meclass.la/course/232_ch-oral-presentation/#5-%E8%A9%95%E5%88%86%E6%96%B9%E5%BC%8F)。
 
-## 預約考試時段
+## 相關連結
 
 <div class="card mb-3 p-0">
   <div class="row g-0 p-0">
@@ -22,11 +22,11 @@ weight: 16
     </div>
     <div class="col-md-7 col-sm-8 py-0">
       <div class="card-body">
-        <h5 class="card-title my-2 p-0">團體簡報期末考試</h5>
-        <p class="card-text p-0">預約考試時間</p>
+        <h5 class="card-title my-2 p-0">期末考試：團體簡報</h5>
+        <!-- <p class="card-text p-0">預約考試時間</p> -->
         <ul class="cta-group justify-content-start my-0 py-0">
           <li>
-            <a href="https://calendar.app.google/8MVkrDNs2ju1Mrc89" target="_blank" class="btn btn-primary btn-lg">預約考試<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
+            <a href="https://calendar.app.google/8MVkrDNs2ju1Mrc89" target="_blank" class="btn btn-primary btn-lg">我要預約考試<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
           </li>
           <!--
           <li>

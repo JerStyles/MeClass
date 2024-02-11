@@ -1,7 +1,7 @@
 ---
 editable: false
 pager: false
-title: Week 1 知識萃取
+title: Lesson 1 知識萃取
 date: '2021-01-01'
 type: book
 slides:
