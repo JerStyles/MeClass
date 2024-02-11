@@ -22,7 +22,7 @@ weight: 9
     </div>
     <div class="col-md-7 col-sm-8 py-0">
       <div class="card-body">
-        <h5 class="card-title my-2 p-0">期末考試：團體簡報</h5>
+        <h5 class="card-title my-2 p-0">【894-231】期末考試：團體簡報</h5>
         <!-- <p class="card-text p-0">預約考試時間</p> -->
         <ul class="cta-group justify-content-start my-0 py-0">
           <li>
