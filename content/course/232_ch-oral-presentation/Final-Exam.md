@@ -1,9 +1,8 @@
 ---
-draft: false
 editable: false
 pager: false
 title: 期末考試：團體報告
-date: '2024-02-21'
+date: '2021-01-01'
 type: book
 weight: 9
 ---
