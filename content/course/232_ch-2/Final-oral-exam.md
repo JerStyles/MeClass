@@ -21,15 +21,8 @@ weight: 10
 - 老師從 50 個題目裡面選一個題目。
 - 學生回答題目，説話的時間最少 1 分鐘。
 - 老師問學生問題。問題跟學生說的內容有關係。
-
-## 考試地點
-
-- Teacher's Room 452
-
-## 時間考試
-
-點擊下面的按鈕，預約你的考試時間
-
+- Location: Teacher's Room 452
+- Click the button and book your time
 
 <a href="https://calendar.app.google/8eZhtTXesCq2zD2H7" target="_blank" class="btn btn-primary btn-lg">我要預約考試<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
 
