@@ -22,6 +22,30 @@ weight: 10
 - 學生回答題目，説話的時間最少 1 分鐘。
 - 老師問學生問題。問題跟學生說的內容有關係。
 
+## 時間考試
+
+點擊下面的按鈕，預約你的考試時間
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3VIhnBMrumrec1rUcuafhReFqg-Ug-dxJlYsgDxIMrU4xRCKIHEKp5X5ondj_9kpFwSxN8Z8bl?gv=true',
+      color: '#ef525b',
+      label: '我要預約時間',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
+<a href="https://calendar.app.google/8MVkrDNs2ju1Mrc89" target="_blank" class="btn btn-primary btn-lg">我要預約考試<i class="fa-solid fa-up-right-from-square mx-1"></i></a>
+
 ## 考試題目
 
 1. 你的星期六、星期日都怎麼過？
