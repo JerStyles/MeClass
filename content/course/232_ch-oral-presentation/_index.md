@@ -4,7 +4,7 @@ editable: false
 title: 華語簡報與口語表達（894-231）
 linkTitle: 華語簡報與口語表達
 summary: 學習如何組織内容，根據受眾調整傳達方法，同時運用各種傳播媒體，加強簡報的主要訊息。
-date: '2023-11-15'
+date: '2024-02-11'
 type: book
 tags:
   - 2023-2
