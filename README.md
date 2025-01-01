@@ -3,6 +3,8 @@
 ## 📚 About  
 [MeClass](https://jerstyles.github.io/MeClass/) is a learning platform 🎓 specifically designed for students in the Chinese Language Program 🀄 at Prince of Songkla University (PSU) 🏫. All learning materials are also publicly shared 🌐 for use by individuals outside the university.  
 
+Use Google Translate Extension if you prefer the webpages in English.
+
 ---
 
 ## 📖 Courses  
